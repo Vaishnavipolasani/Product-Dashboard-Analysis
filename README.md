@@ -1,4 +1,4 @@
-# Customer Sentiment Analysis Dashboard
+# Product Analysis Dashboard
 
 This project is an end-to-end sentiment analysis system that analyzes Amazon product reviews for OnePlus and Redmi smartphones using both traditional NLP techniques and deep learning models. It includes a Tkinter-based GUI and provides an analytical dashboard with visualizations for model performance and customer sentiment insights.
 
